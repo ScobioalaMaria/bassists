@@ -14,7 +14,11 @@ list_of_bassists = {
 'Robert Trujillo': 'Metallica',
 'Chris Squire': 'Yes', 
 'Faso': 'Elio e le Storie Tese',
+ HEAD
 'Cori': 'I tortellini'
+
+'XXX': 'YYYYYYY'
+>>>>>>> 06154f17e619b5e29b3e07324f75cefdf4de13e6
 }
 
 def check_bassist(bass_player):
