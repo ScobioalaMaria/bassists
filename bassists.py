@@ -13,7 +13,8 @@ list_of_bassists = {
 'John Entwistle': 'The Who',
 'Robert Trujillo': 'Metallica',
 'Chris Squire': 'Yes', 
-'Faso': 'Elio e le Storie Tese'
+'Faso': 'Elio e le Storie Tese',
+'Cori': 'I tortellini'
 }
 
 def check_bassist(bass_player):
