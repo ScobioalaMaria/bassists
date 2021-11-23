@@ -10,4 +10,5 @@ The bass hero of King Crimson is Tony Levin
 Sorry, we don't know who is the bass hero of Pooh
 ```
 ciao a tutti
+ciao Corinne
 You can (optionally) add functionalities to this basic behaviour (e.g., other band members) or adapt the template for other applications like sport players and teams.
